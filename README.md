@@ -1,6 +1,6 @@
 # Gpt Scraper Extension
 
-這個程式是用於爬取ChatGPT網站上對話所使用的簡易Chrome插件。
+這個程式是用於爬取ChatGPT網站上對話所使用的簡易Chrome插件。  
 由Threads@Phoenixsnowfly和GPT共同完成開發，請勿二次發布，若需使用本插件請標註原作者。
 
 ※注意：需要使用Chrome的開發人員模式，若擔心權限問題請勿使用。
